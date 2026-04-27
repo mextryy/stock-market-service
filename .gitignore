@@ -1,0 +1,23 @@
+# Python-specific files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Docker-related files
+.docker/
+
+# IDE configurations 
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Local application logs
+*.log
